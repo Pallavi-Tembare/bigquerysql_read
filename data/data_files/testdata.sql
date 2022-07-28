@@ -1,0 +1,1 @@
+SELECT * FROM `model-palace-351108.bigq_practice.employee` LIMIT 10;
